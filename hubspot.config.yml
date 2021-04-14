@@ -1,0 +1,12 @@
+defaultPortal: MBM
+portals:
+  - name: MBM
+    portalId: 2701058
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CNiyqIyNLxIEAAUABBiC7qQBIMWpmgYo7ukMMhkA1nzpxNsCVW3kb3WVKiVeGfhNaJ95VJjhOh0AAARBAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAYEIZANZ86cQfjlXIa50sKD9aQ6_VXGayAHigY0oDbmEx
+        expiresAt: '2021-04-14T17:59:51.901Z'
+    personalAccessKey: >-
+      CiQxMTEyZDE5ZS0zZGVlLTRlYjQtYTQ2Ny0zNDljYjk1ZTRhYzYQgu6kARjFqZoGKhkABeaRgjNOSdt0JdnfZeUAyHE06-XgmfVv
